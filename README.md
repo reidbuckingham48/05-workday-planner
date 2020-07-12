@@ -1,1 +1,1 @@
-# 05-workday-planner
+# 05-day-planner
